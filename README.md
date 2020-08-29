@@ -66,7 +66,7 @@
     <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(32).pdf" style="text-decoration:none;">Density-based Community Detection/Optimization</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(33).pdf" style="text-decoration:none;">Semantic 
-ow in language networks</a></li>                              
+flow in language networks</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(34).pdf" style="text-decoration:none;">Unsupervised Community Detection with Modularity-Based Attention Model</a></li> 
  
