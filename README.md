@@ -93,7 +93,7 @@ ow in language networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(49).pdf" style="text-decoration:none;">Karate Club: An API Oriented Open-Source Python Framework for Unsupervised Learning on Graphs </a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(50).pdf" style="text-decoration:none;">Generalized effective description of loop quantum cosmology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(51).pdf" style="text-decoration:none;">Gravitational waves from isolated systems: Surprising consequences of a positive cosmological constant</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(51).pdf" style="text-decoration:none;">Analysis of ResearchGate, A Community Detection Approach</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(52).pdf" style="text-decoration:none;">Gossip and Attend:
 Context-Sensitive Graph Representation Learning</a></li>
 
