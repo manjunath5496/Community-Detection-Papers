@@ -122,7 +122,7 @@ Context-Sensitive Graph Representation Learning</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(65).pdf" style="text-decoration:none;">A Non-negative Symmetric Encoder-Decoder Approach for Community Detection </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(66).pdf" style="text-decoration:none;">Ego-Spliing Framework: from Non-Overlapping to Overlapping Clusters</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(66).pdf" style="text-decoration:none;">Ego-Splitting Framework: from Non-Overlapping to Overlapping Clusters</a></li> 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(67).pdf" style="text-decoration:none;">Improving Coarsening Schemes for Hypergraph Partitioning by Exploiting Community Structure</a></li>                              
 
