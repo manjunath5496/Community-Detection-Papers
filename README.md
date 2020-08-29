@@ -144,7 +144,7 @@ for Massive Graphs</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(73).pdf" style="text-decoration:none;">Detecting community structure in networks</a></li>
  
  
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(74).pdf" style="text-decoration:none;">Online Community Detection for Large Complex Networks</a></li>
  
  
  </ul>
