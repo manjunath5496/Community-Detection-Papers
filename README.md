@@ -72,7 +72,7 @@ ow in language networks</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(35).pdf" style="text-decoration:none;">Learning to Identify High Betweenness Centrality Nodes from Scratch: A Novel Graph Neural Network Approach</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(36).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(36).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations (1-17)</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(37).pdf" style="text-decoration:none;">EdMot: An Edge Enhancement Approach for Motif-aware Community Detection</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(38).pdf" style="text-decoration:none;">vGraph: A Generative Model for Joint Community Detection and Node Representation Learning</a></li>
@@ -112,29 +112,27 @@ Context-Sensitive Graph Representation Learning</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(60).pdf" style="text-decoration:none;">vGraph: A Generative Model for Joint Community Detection and Node Representation Learning </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(61).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(61).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations (1-13)</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(62).pdf" style="text-decoration:none;">Quantum Transfiguration of Kruskal Black Holes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(62).pdf" style="text-decoration:none;">REM: From Structural Entropy To Community Structure Deception</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(63).pdf" style="text-decoration:none;">Quantum Extension of the Kruskal Space-time</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(63).pdf" style="text-decoration:none;">Efficient discovery of overlapping communities in massive networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(64).pdf" style="text-decoration:none;">Null infinity, the BMS group and infrared issues</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(64).pdf" style="text-decoration:none;">A Distributed Hybrid Community Detection Methodology for Social Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(65).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: IV. The 'no-incoming radiation' condition </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(65).pdf" style="text-decoration:none;">A Non-negative Symmetric Encoder-Decoder Approach for Community Detection </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(66).pdf" style="text-decoration:none;">Compact binary coalescences: Constraints on waveforms</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(66).pdf" style="text-decoration:none;">Ego-Spliing Framework: from Non-Overlapping to Overlapping Clusters</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(67).pdf" style="text-decoration:none;">Compact binary coalescences:
-The subtle issue of angular momentum</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(67).pdf" style="text-decoration:none;">Improving Coarsening Schemes for Hypergraph Partitioning by Exploiting Community Structure</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(68).pdf" style="text-decoration:none;">Black Hole evaporation:
-A Perspective from Loop Quantum Gravity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(68).pdf" style="text-decoration:none;">Sampling Community Structure</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(69).pdf" style="text-decoration:none;">Alleviating the Tension in the Cosmic Microwave Background using Planck-Scale Physics</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(69).pdf" style="text-decoration:none;">CANE: Context-Aware Network Embedding for Relation Modeling</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(70).pdf" style="text-decoration:none;">Emergence of classical behavior in the early universe</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(70).pdf" style="text-decoration:none;">Overlapping Community Detection at Scale: A Nonnegative Matrix Factorization Approach</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(71).pdf" style="text-decoration:none;">Properties of a recent quantum extension of the Kruskal geometry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(71).pdf" style="text-decoration:none;">Fast Sequence Based Embedding with Diffusion Graphs</a></li>
  </ul>
