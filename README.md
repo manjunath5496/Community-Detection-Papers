@@ -21,7 +21,7 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(10).pdf" style="text-decoration:none;">CayleyNets: Graph Convolutional Neural Networks with Complex Rational Spectral Filters</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(11).pdf" style="text-decoration:none;">Supervised Community Detection with Line Graph Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(12).pdf" style="text-decoration:none;">Loop quantum cosmology of Bianchi I models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(12).pdf" style="text-decoration:none;">Community detection in graphs</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(13).pdf" style="text-decoration:none;">Leveraging Node Attributes for Incomplete Relational Data</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(14).pdf" style="text-decoration:none;">Estimation of Low-Rank Matrices via Approximate Message Passing</a></li>
@@ -72,7 +72,7 @@ ow in language networks</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(35).pdf" style="text-decoration:none;">Learning to Identify High Betweenness Centrality Nodes from Scratch: A Novel Graph Neural Network Approach</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(36).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations (1-17)</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(36).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations </a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(37).pdf" style="text-decoration:none;">EdMot: An Edge Enhancement Approach for Motif-aware Community Detection</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(38).pdf" style="text-decoration:none;">vGraph: A Generative Model for Joint Community Detection and Node Representation Learning</a></li>
@@ -92,7 +92,7 @@ ow in language networks</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(49).pdf" style="text-decoration:none;">Karate Club: An API Oriented Open-Source Python Framework for Unsupervised Learning on Graphs </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(50).pdf" style="text-decoration:none;">Generalized effective description of loop quantum cosmology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(50).pdf" style="text-decoration:none;">Community Detection in Weighted Networks: Algorithms and Applications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(51).pdf" style="text-decoration:none;">Analysis of ResearchGate, A Community Detection Approach</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(52).pdf" style="text-decoration:none;">Gossip and Attend:
 Context-Sensitive Graph Representation Learning</a></li>
@@ -112,7 +112,8 @@ Context-Sensitive Graph Representation Learning</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(60).pdf" style="text-decoration:none;">vGraph: A Generative Model for Joint Community Detection and Node Representation Learning </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(61).pdf" style="text-decoration:none;">Unsupervised Co-Learning on G-Manifolds Across Irreducible Representations (1-13)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(61).pdf" style="text-decoration:none;">Community Detection
+Algorithms</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(62).pdf" style="text-decoration:none;">REM: From Structural Entropy To Community Structure Deception</a></li>
  
@@ -134,5 +135,5 @@ Context-Sensitive Graph Representation Learning</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(70).pdf" style="text-decoration:none;">Overlapping Community Detection at Scale: A Nonnegative Matrix Factorization Approach</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(71).pdf" style="text-decoration:none;">Fast Sequence Based Embedding with Diffusion Graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(71).pdf" style="text-decoration:none;">Community Detection in Networks with Node Attributes</a></li>
  </ul>
