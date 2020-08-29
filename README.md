@@ -136,4 +136,15 @@ Algorithms</a></li>
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(71).pdf" style="text-decoration:none;">Community Detection in Networks with Node Attributes</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(72).pdf" style="text-decoration:none;">Parallel Community Detection
+for Massive Graphs</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Community-Detection-Papers/blob/master/cdp(73).pdf" style="text-decoration:none;">Detecting community structure in networks</a></li>
+ 
+ 
+ 
+ 
+ 
  </ul>
